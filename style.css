@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    color: cornflowerblue;
+}
+
+ul {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.sez {
+    height: 100vh;
+
+}
+
+.superga {
+    background-color: #DEFCFC;
+    position: relative;
+}
+
+.tommy {
+    background-color: #CBF1F5;
+    position: relative; 
+}
+
+.converse {
+    background-color: #A6E3E9;
+    position: relative;
+}
+
+.imm1 {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-45%, -50%);
+}
+
+.imm2 {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-45%, -50%);
+}
+
+.imm3 {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-45%, -50%);  
+}
+
+.modello {
+    position: absolute;
+    top: 85%;
+    left: 55%; 
+    transform: translate(-85%, -55%);
+    font-size: 50px;
+    margin-left: 10%;
+    text-align: center;
+}
+
+.tasti {
+    color: cornflowerblue;
+    background-color: white;
+    text-decoration: none;
+    border-radius: 50%;
+    padding: 15px;
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.tasti:hover {
+    box-shadow: 5px 5px cornflowerblue;;
+}

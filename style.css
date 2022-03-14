@@ -43,6 +43,10 @@ li {
     position: relative;
 }
 
+.img {
+    width: 95%;
+}
+
 .imm1 {
     position: absolute;
     top: 45%;
@@ -69,7 +73,7 @@ li {
     top: 85%;
     left: 55%; 
     transform: translate(-85%, -55%);
-    font-size: 50px;
+    font-size: 40px;
     margin-left: 10%;
     text-align: center;
 }
